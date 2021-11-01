@@ -1,6 +1,6 @@
 ## Run App
 
-to run App use this command
+to run App use this  command
 	-- npm start
 
 ## Run Tests
